@@ -1,6 +1,6 @@
 Here, is used mainly the train/val script. 
 it requires a folder that contains subfolders of all the classes filled with the data for each class. 
-for instance, it would start like : 
+for instance, it would start like : (i think it's presented clearly only if you are in edition mode)
 
 dataset/
 │
