@@ -11,4 +11,4 @@ etc
 **csv_train_test.py** takes a csv like above and splits it into a development and a training dataset
 
 
-
+**HOVED_TIL_GRUND_CSV.py** takes a csv with ground types and turns it into a csv with hovedtypes
